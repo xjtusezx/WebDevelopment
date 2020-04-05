@@ -7,3 +7,5 @@
 3.使用node框架，构建一个Restful API，能够完成Todo List功能(完成)
 
 4.使用React JS框架构建TodoList(完成)
+
+5.使用e2e对TodoList进行端到端测试(完成)
